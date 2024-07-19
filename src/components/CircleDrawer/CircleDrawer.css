@@ -1,0 +1,15 @@
+.drawer {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.circle {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+    transform: translate(-50%, -50%);
+}
